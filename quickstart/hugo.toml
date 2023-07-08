@@ -1,0 +1,4 @@
+baseURL = 'http://thecontrolplane.net/'
+languageCode = 'en-au'
+title = 'The Control Plane'
+theme = 'ananke'
